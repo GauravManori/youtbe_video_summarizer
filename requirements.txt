@@ -1,0 +1,5 @@
+streamlit==1.25.0
+transformers==4.35.0
+torch==2.0.1  # Match a compatible torch version
+protobuf==4.24.0  # Updated version to resolve protobuf issues
+youtube-transcript-api==0.6.0
